@@ -128,7 +128,7 @@ NetworkImageView
 
 
 4 源码解析
-https://github.com/android-cn/android-open-project-analysis/tree/master/event-bus
+https://github.com/android-cn/android-open-project-analysis/tree/master/volley
 
 5 常见问题
 返回的字符串是乱码解决办法
